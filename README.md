@@ -1,4 +1,4 @@
-# Uber News ETL Pipeline
+# News ETL Pipeline
 
 ## Overview
 
