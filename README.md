@@ -10,6 +10,9 @@ This project implements an ETL pipeline that extracts news articles from the New
 - **Transform**: Filters and structures the data, retaining only articles related to Uber.
 - **Load**: Saves the filtered data as a CSV file and uploads it to an S3 bucket.
 
+
+
+
 ![etl_diagram drawio](https://github.com/user-attachments/assets/279c4e82-1ec2-4367-87dd-fc658fd1edb0)
 
 ## Used
